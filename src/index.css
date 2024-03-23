@@ -8,13 +8,10 @@ body {
   background-color: #151414;
 }
 
-/* .myVideo {
-  position: fixed;
-  right: -1200px;
-  bottom: 0;
+.myVideo {
   width: 100%;
   height: 100vh;
-} */
+}
 
 /* About */
 .aboutShadow {

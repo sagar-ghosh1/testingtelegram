@@ -25,10 +25,13 @@ const Banner = () => {
             muted
             autoPlay
             loop
-            src="https://res.cloudinary.com/dycfvsiex/video/upload/v1711172590/g9hhimoeco1yveo9kybv.mp4"
+            src="https://res.cloudinary.com/dyzbg4knq/video/upload/v1710883342/ue7gcmhaa5nhlxtmzk3y.mp4"
           // src={computerVideo}
           >
           </video>
+          {/* <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LM2T9MqvrSM?si=3mXsSAi29t-cmM-W&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div> */}
         </div>
 
         {/*  Banner contents  */}
