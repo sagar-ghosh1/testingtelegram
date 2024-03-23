@@ -25,7 +25,7 @@ const Banner = () => {
             muted
             autoPlay
             loop
-            src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
+            src="https://res.cloudinary.com/dycfvsiex/video/upload/v1711112038/yshzoy9vp672fgw0vs4s.mp4" type="video/mp4">
 
 
 
