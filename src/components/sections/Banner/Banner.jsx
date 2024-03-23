@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import Container from "../Container/Container";
-import computerVideo from '@/assets/videos/bannerVideo1.mp4';
+// import computerVideo from '@/assets/videos/bannerVideo1.mp4';
 import { Button } from "@/components/ui/button";
 import { MdArrowOutward } from "react-icons/md";
 import img from '@/assets/banner/group69.png'
