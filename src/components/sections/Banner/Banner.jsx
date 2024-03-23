@@ -18,16 +18,19 @@ const Banner = () => {
     <div className="overflow-hidden relative -mt-[190px] md:-mt-[160px] xl:-mt-[160px] 2xl:-mt-[200px]" id="home">
       <div className="overflow-hidden w-full h-[100vh] md:h-[120vh] flex justify-center items-center relative">
         {/* video */}
-        <div className="">
+        <div className="w-full h-[80vh] md:h-dvh">
           {/* computer  */}
           <video
-            className="myVideo"
+            className="w-full h-full object-fill md:object-cover hidden lg:block"
             muted
             autoPlay
             loop
-            src="https://res.cloudinary.com/dycfvsiex/video/upload/v1711115754/l5lfbb0iotty3qst3zmx.mp4">
-            // src={computerVideo}
-          
+            src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
+
+
+
+            {/* // src={computerVideo} */}
+
           </video>
         </div>
 
