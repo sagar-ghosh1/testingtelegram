@@ -25,7 +25,8 @@ const Banner = () => {
             muted
             autoPlay
             loop
-            src={computerVideo}
+            src="https://res.cloudinary.com/dycfvsiex/video/upload/v1711172590/g9hhimoeco1yveo9kybv.mp4"
+          // src={computerVideo}
           >
           </video>
         </div>
