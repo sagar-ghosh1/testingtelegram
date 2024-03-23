@@ -18,10 +18,10 @@ const Banner = () => {
     <div className="overflow-hidden relative -mt-[190px] md:-mt-[160px] xl:-mt-[160px] 2xl:-mt-[200px]" id="home">
       <div className="overflow-hidden w-full h-[100vh] md:h-[120vh] flex justify-center items-center relative">
         {/* video */}
-        <div className="w-full h-[80vh] md:h-dvh">
+        <div className="">
           {/* computer  */}
           <video
-            className="w-full h-full object-fill md:object-cover hidden lg:block"
+            className="myVideo"
             muted
             autoPlay
             loop
